@@ -1,4 +1,6 @@
 # OpenCV-CameraCalibration-Example
+https://user-images.githubusercontent.com/37477845/122789204-043da700-d2f2-11eb-8784-a9199caaad09.mp4
+
 OpenCVを用いたカメラキャリブレーションのサンプルです<br>
 2021/06/21時点でPython実装のある以下3種類について用意しています。
 * 通常カメラ向け
